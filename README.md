@@ -1,26 +1,50 @@
 # Sass everlast
 
-#### Directory structure
-
-> **A:** Because you don't want to test the code, you want to test the _program_.
-
 ### A typical top-level directory layout
 
 ```
-project
+
+//It does not mean you have to follow everything as it is, you might not need some of them from the following structure
+
+sass
 │   README.md
-│   file001.txt
+│   _theme.scss
+|   style.scss
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+└───utilities/
+│   │   _variables.scss
+│   │   _mixins.scss
+|   |   _functions.scss
 │
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───base/
+│   │   _reset.scss         // Reset/normalize
+│   │   _typography.scss    // Typography rules
+│
+└───components/
+│   │   _button.scss
+│   │   _slider.scss
+|   |   ...
+│
+└───layout/
+│   │   _navigation.scss
+│   │   _header.scss
+|   |   _footer.scss
+|   |   _sidebar.scss
+|   |   _forms.scss
+|   |   ...
+│
+└───pages/
+│   │   _home.scss
+│   │   _about.scss
+|   |   _contact.scss
+│
+└───themes/
+│   │   _theme.scss
+│   │   _admin.scss
+│
+└───vendors/
+│   │   _bootstrap.scss
+│   │   _jquery-ui.scss
+|
+|
 ```
