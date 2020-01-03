@@ -9,14 +9,12 @@ Sass is a preprocessor, it compiles your SASS files into CSS.
 
 ### Variables
 
-```javascript
-//defining variable
-$primary-color : #333;
+```css
+// defining variable
+$primary-color: #333;
 
-//usage example
-//a {
-//    color: $primary-color;
-//}
+// usage example
+// color: $primary-color;
 ```
 
 ### Nesting
