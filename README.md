@@ -2,14 +2,15 @@
 
 ### A typical top-level directory layout
 
+It does not mean you have to follow everything as it is, you might not need some of them from the following structure
+
 ```
 
-//It does not mean you have to follow everything as it is, you might not need some of them from the following structure
+
 
 sass
 │   README.md
-│   _theme.scss
-|   style.scss
+|   main.scss
 │
 └───utilities/
 │   │   _variables.scss
