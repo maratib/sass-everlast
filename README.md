@@ -22,6 +22,7 @@ $primary-color: #333;
 <table width="100%"><tr>
 <td>
 <pre>
+//SCSS
 nav {
   ul {
     margin: 0;
@@ -34,6 +35,7 @@ nav {
 </td>
 <td>
 <pre>
+//CSS
 nav ul {
   margin: 0;
   padding: 0;
