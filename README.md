@@ -96,7 +96,7 @@ Partials are files contain little snippets of CSS, use to brake a large CSS into
 
 ### Operators
 
-Sass has math operators like +,-,\*,/. and %
+Sass has math operators like `+,-,\*,/. and %`
 
 ```css
 article[role="main"] {
