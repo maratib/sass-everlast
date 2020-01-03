@@ -21,7 +21,7 @@ $primary-color : #333;
 
 ### Nesting
 
-<table><tr>
+<table width="100%"><tr>
 <td>
 <pre>
 nav {
