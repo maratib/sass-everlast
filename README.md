@@ -51,7 +51,7 @@ nav li {
 Partials are files contain little snippets of CSS, use to brake a large CSS into small manageable and relevant chunks of code.
 
 ```javascript
-//A Partial file name starts with underscore '_', so that sass compiler will not compile it to its own css.
+//A Partial file name starts with underscore '_', hence sass compiler will not compile it to its own css.
 
 //example _variables.scss
 
