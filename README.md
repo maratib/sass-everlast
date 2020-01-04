@@ -130,4 +130,5 @@ _*Useful extensions for sass*_
 
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
+_*References*_
 [Sass-Everlast](https://github.com/maratib/sass-everlast)
