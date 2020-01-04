@@ -5,7 +5,7 @@
 Sass is a preprocessor, it compiles your SASS files into CSS.
 
 > It greatly simplifies the process of writing complex CSS
-> using Variables, Nesting, Mixins, Partials and Inheritance.
+> using (Variables, Nesting, Mixins, Functions, Partials and Inheritance).
 
 ### Variables
 
