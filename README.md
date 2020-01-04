@@ -156,7 +156,7 @@ sass
 
 It does not mean you have to follow everything as it is, you might not need some of them from the above structure
 
-**Tips for VS Cod**
+**Tips for VS Code**
 
 **Useful extensions**
 
