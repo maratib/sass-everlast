@@ -120,7 +120,7 @@ article[role="main"] {
 }
 ```
 
-### Tips for VS Code
+### Tips for VSCode
 
 _*Useful extensions*_
 
