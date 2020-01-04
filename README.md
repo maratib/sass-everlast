@@ -128,4 +128,4 @@ _*Useful extensions*_
 
 [SCSS Everywhere](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion)
 
-[SCSS Lint](https://marketplace.visualstudio.com/items?itemName=adamwalzer.scss-lint)
+[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
