@@ -122,10 +122,12 @@ article[role="main"] {
 
 ### Tips for VSCode
 
-_*Useful extensions*_
+_*Useful extensions for sass*_
 
 [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 [SCSS Everywhere](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion)
 
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+[Sass-Everlast](https://github.com/maratib/sass-everlast)
