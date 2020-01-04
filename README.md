@@ -67,6 +67,8 @@ Partials are files contain little snippets of CSS, use to brake a large CSS into
 
 ### Mixins
 
+`@mixin and @include`
+
 ```css
 @mixin transform($property) {
   -webkit-transform: $property;
@@ -152,4 +154,4 @@ sass
 |
 ```
 
-It does not mean you have to follow everything as it is, you might not need some of them from the following structure
+It does not mean you have to follow everything as it is, you might not need some of them from the above structure
