@@ -96,7 +96,7 @@ Partials are files contain little snippets of CSS, use to brake a large CSS into
 
 ### Operators
 
-Sass has math operators like `+,-,\*,/. and %`
+Sass has math operators like `+,-,*,/,%`
 
 ```css
 article[role="main"] {
@@ -106,8 +106,6 @@ article[role="main"] {
 ```
 
 ### A typical top-level directory layout
-
-It does not mean you have to follow everything as it is, you might not need some of them from the following structure
 
 ```
 
@@ -152,9 +150,6 @@ sass
 │ │ \_jquery-ui.scss
 |
 |
-
 ```
 
-```
-
-```
+It does not mean you have to follow everything as it is, you might not need some of them from the following structure
