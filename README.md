@@ -169,9 +169,9 @@ sass
 
 It does not mean you have to follow everything as it is, you might not need some of them from the above structure
 
-**Tips for VS Code**
+### Tips for VS Code
 
-**Useful extensions**
+_*Useful extensions*_
 
 [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
