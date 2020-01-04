@@ -81,6 +81,19 @@ Partials are files contain little snippets of CSS, use to brake a large CSS into
 }
 ```
 
+### Functions
+
+```css
+$total: 8;
+$col: 3;
+
+@function column-width() {
+  @return percentage($col/$total);
+}
+
+//width: column-width();
+```
+
 ### Extend/Inheritance
 
 ```css
