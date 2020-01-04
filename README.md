@@ -155,3 +155,13 @@ sass
 ```
 
 It does not mean you have to follow everything as it is, you might not need some of them from the above structure
+
+**Tips for VS Cod**
+
+**Useful extensions**
+
+[SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+
+[SCSS Everywhere](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion)
+
+[SCSS Lint](https://marketplace.visualstudio.com/items?itemName=adamwalzer.scss-lint)
