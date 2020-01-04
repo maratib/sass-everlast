@@ -114,40 +114,40 @@ sass
 | main.scss
 │
 └───utilities/
-│ │ \_variables.scss
-│ │ \_mixins.scss
-| | \_functions.scss
+│ │ _variables.scss
+│ │ _mixins.scss
+| | _functions.scss
 │
 └───base/
-│ │ \_reset.scss // Reset/normalize
-│ │ \_typography.scss // Typography rules
+│ │ _reset.scss // Reset/normalize
+│ │ _typography.scss // Typography rules
 │
 └───components/
-│ │ \_button.scss
-│ │ \_slider.scss
+│ │ _button.scss
+│ │ _slider.scss
 | | ...
 │
 └───layout/
-│ │ \_navigation.scss
-│ │ \_header.scss
-| | \_footer.scss
-| | \_sidebar.scss
-| | \_forms.scss
-| | \_grid.scss
+│ │ _navigation.scss
+│ │ _header.scss
+| | _footer.scss
+| | _sidebar.scss
+| | _forms.scss
+| | _grid.scss
 | | ...
 │
 └───pages/
-│ │ \_home.scss
-│ │ \_about.scss
-| | \_contact.scss
+│ │ _home.scss
+│ │ _about.scss
+| | _contact.scss
 │
 └───themes/
-│ │ \_theme.scss
-│ │ \_admin.scss
+│ │ _theme.scss
+│ │ _admin.scss
 │
 └───vendors/
-│ │ \_bootstrap.scss
-│ │ \_jquery-ui.scss
+│ │ _bootstrap.scss
+│ │ _jquery-ui.scss
 |
 |
 ```
