@@ -1,9 +1,10 @@
-// Utilites
+// Utilities
 @import "./utilities/variables";
 @import "./utilities/functions";
 @import "./utilities/mixins";
 
 a {
+  padding: 12px;
   color: $primary-color;
   width: column-width();
 }
