@@ -1,11 +1,22 @@
-// Utilities
-@import "./utilities/variables";
-@import "./utilities/functions";
-@import "./utilities/mixins";
+@charset 'UTF-8';
 
-a {
-  padding: 12px;
-  color: $primary-color;
-  color: $primary-color;
-  width: column-width();
-}
+// 1. Configuration and helpers
+@import "utilities/variables", "utilities/functions", "utilities/mixins";
+
+// 2. Vendors
+@import "vendors/normalize";
+
+// 3. Base stuff
+@import "base/reset", "base/fonts", "base/typography", "base/helpers";
+
+// 4. Layout-related sections
+@import "layout/header", "layout/footer", "./layout/navigation";
+
+// 5. Components
+@import "components/button";
+
+// 6. Page-specific styles
+@import "pages/home";
+
+// 7. Themes
+@import "themes/default";
