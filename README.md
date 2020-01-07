@@ -1,5 +1,9 @@
 # Sass everlast
 
+This is a SASS boilerplate code/structure for a quick start using sass in your project.
+
+## Quick refresher on SASS
+
 ### Preprocessor
 
 Sass is a preprocessor, it compiles your SASS files into CSS.
@@ -65,7 +69,7 @@ Partials are files contain little snippets of CSS, use to brake a large CSS into
 
 ...
 
-### Mixins
+### Mixins (Mixins outputs SASS code which prints as it is in CSS output)
 
 `@mixin and @include`
 
@@ -81,7 +85,7 @@ Partials are files contain little snippets of CSS, use to brake a large CSS into
 }
 ```
 
-### Functions
+### Functions (Function returns values)
 
 ```css
 $total: 8;
